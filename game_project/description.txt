@@ -1,0 +1,10 @@
+Notes:
+ Chaque joueur a 30 sec pour son role
+ Capacite de  defense: une protection, le joueur ne perd pas de vie quand c'est >0
+ Capacite d\'attaque: le nombre de balle que le joueur en a.
+ Petits gurriers: ramassent les objet ramassable pour le grand guerrier.
+ ObjetsRamassable: augmente/diminue le nombre de vie, la capacite de defense et attaque.
+
+But de jeu:
+ Tuer l'adversaire"
+
